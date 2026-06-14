@@ -1,0 +1,10 @@
+/build/
+/data/
+/media/
+/dist/
+/out/
+/target/
+/nbproject/private/private.xml
+nbproject/private/private.properties
+/.idea/
+indices.xml
